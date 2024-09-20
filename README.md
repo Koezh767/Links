@@ -6,7 +6,7 @@
 - % Percent sign
 - ^ Up arrow, power of symbol
 - & And, amperstand
-- /* Star, multiplication sign
+- /* Star, multiplication sign, asterisk
 - ( open bracket
 - ) closing bracket
 <br>
