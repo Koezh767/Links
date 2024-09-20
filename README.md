@@ -6,10 +6,13 @@ Number row characters
 - % Percent sign
 - ^ Up arrow, power of symbol
 - & And, amperstand
-- * Start, multiplication sign
+- /* Star, multiplication sign
 - ( open bracket
 - ) closing bracket
 <br>
 
-  [github](https://github.com/)
+    [github](https://github.com/)
+    [Amazon](https://www.amazon.ca/)
+    [Netflix](https://www.netflix.com/ca/)
+  
   
