@@ -1,4 +1,4 @@
-Number row characters
+#  Number row characters
 - ! Exclamation mark
 - @ At symbol
 - /# Hash, number sign, pound
@@ -11,8 +11,10 @@ Number row characters
 - ) closing bracket
 <br>
 
-    [github](https://github.com/)
-    [Amazon](https://www.amazon.ca/)
-    [Netflix](https://www.netflix.com/ca/)
+##  Useful links
+
+    💬 [github](https://github.com/)
+    🛒[Amazon](https://www.amazon.ca/)
+    🎥[Netflix](https://www.netflix.com/ca/)
   
   
