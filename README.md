@@ -1,1 +1,11 @@
-# Links
+Number row characters
+- ! Exclamation mark
+- @ At symbol
+- /# Hash, number sign, pound
+- $
+- %
+- ^
+- &
+- *
+- (
+- )
