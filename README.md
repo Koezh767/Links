@@ -17,4 +17,5 @@
     🛒[Amazon](https://www.amazon.ca/)
     🎥[Netflix](https://www.netflix.com/ca/)
   
+  ## shortcuts
   
