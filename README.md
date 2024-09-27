@@ -18,4 +18,12 @@
     🎥[Netflix](https://www.netflix.com/ca/)
   
   ## shortcuts
-  
+  Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-alt-delete (task manager)
+<br>
+Shortcuts I would like to start using:
+- Ctrl-Z (undo text)
+- Ctrl-S (save file)
+- Ctrl-F (find text)
