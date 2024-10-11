@@ -28,3 +28,4 @@ Shortcuts I would like to start using:
 - Ctrl-Z (undo text)
 - Ctrl-S (save file)
 - Ctrl-F (find text)
+[config notes](lab6/CLI)
